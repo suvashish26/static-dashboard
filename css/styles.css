@@ -1,20 +1,20 @@
 .chart_container {
-  border      : 1px #cacaca solid;
-  padding     :5px;
-  width       : 100%;
-  text-align  : center;
-  margin-top      : 10px;
+  border: 2px #cacaca solid;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
   background-color: #fff;
 }
 
 .chart_title {
-     font-weight  : bold;
-     font-size    : 20px;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .menu_button_container {
-   width        : 100%;
-   text-align   : left;
+  width: 100%;
+  text-align: left;
 }
 
 .ct-label {
@@ -23,4 +23,5 @@
 
 #page-content-wrapper {
   background-color: #fff // #0790CD
+;
 }
